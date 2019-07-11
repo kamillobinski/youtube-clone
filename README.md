@@ -1,16 +1,30 @@
-# first_project
+![version](https://img.shields.io/badge/version-v1.0-orange.svg)
+![build](https://img.shields.io/badge/license-Apache%202-blue.svg)
+# YouTube-Clone
+> 🚀 Visual clone of YouTube app using Flutter
 
-A new Flutter project.
+## Preview
+| Gif | Homepage | VideoPage |
+|   ---  |  ---  |  ---  |
+|  <img src="https://github.com/kamillobinski/YouTube-Clone/blob/master/images/YouTube-Clone.gif" width="261" height="548"/> | <img src="https://github.com/kamillobinski/YouTube-Clone/blob/master/images/yt_clone_1.jpg" width="261" height="548"/> | <img src="https://github.com/kamillobinski/YouTube-Clone/blob/master/images/yt_clone_2.jpg" width="261" height="548"/> |   
 
-## Getting Started
+## Features
+- [X] Homepage video list
+- [X] Video author details such as: 
+  - Avatar
+  - Username
+  - Subscriptions
+- [X] Video details
+  - Views number
+  - Likes / Dislikes
+  - List of comments
+- [ ] Video player
 
-This project is a starting point for a Flutter application.
+## Future plans
+> This flutter project was my very first, so I will not continue developing it.
 
-A few resources to get you started if this is your first Flutter project:
+## 🎓 Getting Started
+For help getting started with Flutter, view online [documentation](https://flutter.dev/docs). 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## License
+This project is licensed under the Apache License 2.0 see the Licence.md file for details
