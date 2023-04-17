@@ -72,7 +72,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone git@github.com:kamillobinski/YouTube-Clone.git
+   git clone git@github.com:kamillobinski/youtube-clone.git
    ```
 
 2. Open the cloned repository in Android Studio or any other code editor
